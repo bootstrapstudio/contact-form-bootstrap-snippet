@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Contact form snippet** made with Bootstrap 4. It can be used to quickly add a Contacts page on your website for users to leave feedback. The snippet includes name, email address, and message form fields, and can be easily extended to add more inputs. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/contact-form)
+**Contact form snippet** made with Bootstrap 4. It can be used to quickly add a Contacts page on your website for users to leave feedback. The snippet includes name, email address, and message form fields, and can be easily extended to add more inputs. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Contact Form](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/contact-form) 
+[![Contact Form](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
